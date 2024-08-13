@@ -1,4 +1,6 @@
+import os
 import sys
+import subprocess
 import math
 import numpy as np
 import matplotlib.pyplot as plt
@@ -268,6 +270,9 @@ def check_unique_word(uw_register, phase_ambiguities):
         return phase_ambiguities[uw_register]
     else:
         return None
+
+def quiet_install(package):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 
 # CLASS DEFINITIONS
