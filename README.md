@@ -20,7 +20,7 @@ To get started with the Jupyter Notebook Library:
    ```bash
    git clone https://github.com/powersthegreat/Digital_Communications_Notebooks
    ```
-2. **Install Dependencies:** Ensure you have Python and Jupyter Notebook installed on your system. The Jupyter package can be installed via the following command:
+2. **Install Dependencies:** Ensure you have Python and Jupyter Notebook installed on your system. The Jupyter package can be installed via the following command (will take up to a minute):
    ```bash
    pip install notebook
    ```
