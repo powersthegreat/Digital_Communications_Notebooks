@@ -10,6 +10,7 @@ This library provides a comprehensive collection of Jupyter Notebooks focused on
 - **PLL.ipynb:** A digital Phase-Locked Loop (PLL) implementation, building into full integration and simulation within a QPSK receiver.
 - **SCS.ipynb:** A digital Symbol Clock Synchronizer (SCS) subsystem implementation, building into full integration and simulation within a QPSK receiver.
 - **QPSK_Synchronized.ipynb:** A fully coherent QPSK transmission system, including both PLL and SCS subsystems integration.
+- **CORDiC.ipynb:** Explanation and use cases of the coordinate rotation digital computer algorithm.
 
 ### Getting Started
 
