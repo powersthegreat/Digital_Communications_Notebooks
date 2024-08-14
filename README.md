@@ -22,7 +22,7 @@ To get started with the Jupyter Notebook Library:
    ```
 2. **Install Dependencies:** Ensure you have Python and Jupyter Notebook installed on your system. The Jupyter package can be installed via the following command (will take up to a minute):
    ```bash
-   pip install notebook
+   pip install -q notebook
    ```
 3. **Run the Notebooks:** Launch Jupyter Notebook and open any notebook of your choice to start learning and experimenting.
    ```bash
